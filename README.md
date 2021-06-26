@@ -6,5 +6,5 @@ I have designed this site so that it is easy to look back at the books I have re
 This site is written entirely in PHP, though it is made to look as if it were using a database. However, since the readability is significantly reduced when trying to write everything in one file, I have prepared several PHP files, one to handle data, one to handle classes, and one to display HTML.
 
 # URL
-This site is published using Star Server Free.
+This site is published using Star Server Free.\n
 http://booklog23.starfree.jp/
