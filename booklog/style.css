@@ -1,0 +1,55 @@
+div.title{
+    text-align: center;
+    background-color: #464646;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+h1 {
+    color: #F5F5F5;
+}
+
+div.main{
+    background-color: #232323;
+    padding-bottom: 20px;
+}
+
+div.Books{
+    text-align: center;
+    color: #F5F5F5;
+}
+
+div.Explain{
+    padding-top: 20px;
+}
+
+
+div.BookShell{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img.BookImg{
+    width:99%;
+    height: 99%;
+}
+
+div.footer{
+    text-align: center;
+    background-color: #F5F5F5;
+    font-size: large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a.Footer-List-Item{
+    color: #464646;
+    text-decoration: none;
+    padding-right: 15px;
+    transition: background-color .3s;
+} 
+
+a.Footer-List-Item:hover{
+    color: #e2b41c;
+    text-decoration: none;
+} 

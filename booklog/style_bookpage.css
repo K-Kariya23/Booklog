@@ -1,0 +1,30 @@
+div.main1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+img.BookPageImg{
+    width: 50%;
+    height: 50%;
+}
+
+div.Sidebar{
+    margin-top: 30px;
+}
+
+div.comp1{
+    padding-bottom: 20px;
+}
+
+p.comp1_p{
+    color: #E0E0E0;
+}
+
+div.SameCatBooks{
+    padding-bottom: 50px;
+}
+
+img.BookPageImg2{
+    width: 80%;
+    height: 80%;
+}
